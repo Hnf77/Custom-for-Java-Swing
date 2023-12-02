@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import javax.swing.plaf.basic.BasicScrollBarUI;
 
-public class Setting_ModernScrollBarUI extends BasicScrollBarUI {
+public class SourceCode_Custom_Jscrollbar extends BasicScrollBarUI {
 
     private final int THUMB_SIZE = 60;
 
