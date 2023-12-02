@@ -17,7 +17,7 @@ This repository houses a collection of custom Java Swing components designed to 
 7. Search and select the **hnf-javasw-custom.jar** file that you have downloaded.
 8. Select the component costume files available in **hnf-javasw-custom.jar**.
 9. Choose the category folder that you have created to store the component costume files that you have selected in **hnf-javasw-custom.jar**.
-10. **DONE**.
+10. **DONE and REFRESH the PALETTE**.
 
 ## Thank You to My Library Sources
 
