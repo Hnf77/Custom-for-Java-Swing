@@ -19,7 +19,7 @@ This repository houses a collection of custom Java Swing components designed to 
 9. Choose the category folder that you have created to store the component costume files that you have selected in **hnf-javasw-custom.jar**.
 10. **DONE** and **REFRESH PALETTE**.
 
-## Thank You to My Library Sources
+## Thank You to My References
 
 <div class="images-source">
   <a href="https://github.com/k33ptoo" target="_blank">
