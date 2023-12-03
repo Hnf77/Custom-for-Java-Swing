@@ -6,6 +6,13 @@ This repository houses a collection of custom Java Swing components designed to 
 
 **Download here**: [hnf-javasw-custom.jar](https://github.com/Hnf77/Custom-for-Java-Swing/raw/master/dist/hnf-javasw-custom.jar)
 
+## Support Me
+ <a href="https://paypal.me/hanif1230?country.x=ID&locale.x=id_ID" target="_blank">
+    <img src="https://user-images.githubusercontent.com/42001064/196043185-ebd61195-44ee-480f-9b76-f5eb7cfcaf55.png" alt="Paypal" width="180"/>
+ </a>
+ <a href="https://www.buymeacoffee.com/hnf77" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Paypal" width="180"/>
+ </a>
 ## How to install in Netbeans IDE
 
 1. Go to **Netbeans IDE**.
