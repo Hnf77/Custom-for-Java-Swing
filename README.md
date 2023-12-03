@@ -13,6 +13,7 @@ This repository houses a collection of custom Java Swing components designed to 
  <a href="https://www.buymeacoffee.com/hnf77" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Paypal" width="180"/>
  </a>
+ 
 ## How to install in Netbeans IDE
 
 1. Go to **Netbeans IDE**.
