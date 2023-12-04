@@ -4,7 +4,7 @@ Repository ini berisi kumpulan komponen Java Swing kustom yang dirancang untuk m
 
 ## Terjemahan
  - [Jepang](/docs/README-JP.md)
- - [English](README.md)
+ - [English](/Custom-for-Java-Swing/README.md)
 
 ## Cara Mengunduh Berkas .Jar
 
