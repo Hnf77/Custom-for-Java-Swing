@@ -4,6 +4,7 @@ This repository houses a collection of custom Java Swing components designed to 
 
 ## Translation
 [Indonesia](/docs/README-ID.md)
+<br/>
 [English](README.md)
 
 ## How to Download .Jar Files
