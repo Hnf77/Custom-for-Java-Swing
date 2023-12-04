@@ -2,6 +2,10 @@
 
 Repository ini berisi kumpulan komponen Java Swing kustom yang dirancang untuk meningkatkan antarmuka pengguna aplikasi Java Anda. Komponen-komponen ini dirancang untuk memberikan tampilan yang lebih modern dan menarik secara visual, melampaui komponen standar Swing.
 
+## Terjemahan
+ - [Indonesia](/docs/README-ID.md)
+ - [English](README.md)
+
 ## Cara Mengunduh Berkas .Jar
 
 **Unduh di sini**: [hnf-javasw-custom.jar](https://github.com/Hnf77/Custom-for-Java-Swing/raw/master/dist/hnf-javasw-custom.jar)
