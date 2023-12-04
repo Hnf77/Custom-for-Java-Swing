@@ -3,6 +3,7 @@
 Repository ini berisi kumpulan komponen Java Swing kustom yang dirancang untuk meningkatkan antarmuka pengguna aplikasi Java Anda. Komponen-komponen ini dirancang untuk memberikan tampilan yang lebih modern dan menarik secara visual, melampaui komponen standar Swing.
 
 ## Terjemahan
+ - [Jepang](/docs/README-JP.md)
  - [English](README.md)
 
 ## Cara Mengunduh Berkas .Jar
