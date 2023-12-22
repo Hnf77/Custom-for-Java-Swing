@@ -2,7 +2,7 @@
 
 This repository houses a collection of custom Java Swing components designed to enhance the user interface of your Java applications. These components are crafted to provide a more modern and visually appealing look and feel, going beyond the standard Swing components.
 
-this component support java development kit version 21+
+This component **only support java development kit version 21+**
 
 ## Translation
  - [Indonesia](/docs/README-ID.md)
