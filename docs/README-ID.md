@@ -2,6 +2,8 @@
 
 Repository ini berisi kumpulan komponen Java Swing kustom yang dirancang untuk meningkatkan antarmuka pengguna aplikasi Java Anda. Komponen-komponen ini dirancang untuk memberikan tampilan yang lebih modern dan menarik secara visual, melampaui komponen standar Swing.
 
+Komponen ini hanya didukung **Java Development Kit Versi 21+**
+
 ## Terjemahan
  - [Jepang](/docs/README-JP.md)
  - [English](/Custom-for-Java-Swing/README.md)
