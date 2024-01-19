@@ -4,7 +4,7 @@
 
 ## 翻訳
  - [インドネシア語](/docs/README-ID.md)
- - [英語](/Custom-for-Java-Swing/README.md)
+ - [英語](https://github.com/Hnf77/Custom-for-Java-Swing)
 
 ## .Jarファイルのダウンロード方法
 
