@@ -6,7 +6,7 @@ Komponen ini hanya didukung **Java Development Kit Versi 21+**
 
 ## Terjemahan
  - [Jepang](/docs/README-JP.md)
- - [English](/Custom-for-Java-Swing/README.md)
+ - [English](https://github.com/Hnf77/Custom-for-Java-Swing )
 
 ## Cara Mengunduh Berkas .Jar
 
